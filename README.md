@@ -67,3 +67,5 @@ Tolong berikan masukan dan saran di sini atau jika ada bugs tolong tulis di issu
 Progress projectnya https://github.com/users/romadebrian/projects/2
 
 Sumber template web nya https://w3layouts.com/template/scholarly-education-category-bootstrap-responsive-web-template/
+
+Testing Integrasi Sonar Qube 
